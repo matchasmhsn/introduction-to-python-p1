@@ -28,4 +28,4 @@ Setelah itu:
 2. Buka terminal atau command prompt, lalu jalankan:
 
 ```bash
-python nama_file.py
+python python_introduction_P1.py
